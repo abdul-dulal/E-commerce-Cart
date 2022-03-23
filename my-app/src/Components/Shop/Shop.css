@@ -8,5 +8,5 @@
   grid-template-columns: repeat(3, 1fr);
 }
 .cart-container {
-  background-color: rgba(red, green, blue, alpha);
+  background: #e5e5e5;
 }
